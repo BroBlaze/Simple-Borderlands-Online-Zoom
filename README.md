@@ -1,6 +1,6 @@
 # Simple-Borderlands-Online-Zoom
 A simple zoom and coordinate display for Borderlands Online
- -- FOR USE WITH MELON LOADER 7.0 -- 
+# -- FOR USE WITH MELON LOADER 7.0 -- 
 
 Thank you for using Simple Borderlands Zoom, the controls are as follows -
 
