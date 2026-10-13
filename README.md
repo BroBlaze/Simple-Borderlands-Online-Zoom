@@ -9,7 +9,7 @@ A simple zoom and coordinate display for Borderlands Online
 5. Add BorderlandsZoom.dll to your new mods folder, and enjoy.
 
 # Controls
--Thank you for using Simple Borderlands Zoom, the controls are as follows -
+Thank you for using Simple Borderlands Zoom, the controls are as follows
 
 - Coordinate Menu -
 . F1 to toggle the menu
