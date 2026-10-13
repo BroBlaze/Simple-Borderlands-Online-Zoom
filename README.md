@@ -2,9 +2,9 @@
 A simple zoom and coordinate display for Borderlands Online
 
 # How To Install
-1. In order to use this mod you must load it with melon loader 7.0.
+1. In order to use this mod you must load it with Melon Loader 7.0.
 2. You can get melon loader here - https://github.com/lavagang/melonloader
-3. Install using the exe or your preferred method and when selecting a version to use with borderlands online select 7.0, later versions can break functionality.
+3. Install Melon Loader using the exe or your preferred method and when selecting a version to use with borderlands online select 7.0, later versions can break functionality.
 5. Run borderlands online to create a mods folder in the same location as your BOL.exe.
 6. Download and extract the .zip file from your chosen release.
 7. Add BorderlandsZoom.dll to your new mods folder, and enjoy.
