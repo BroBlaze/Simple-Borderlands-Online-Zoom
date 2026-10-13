@@ -17,4 +17,4 @@ Thank you for using Simple Borderlands Zoom, the controls are as follows
 
 - Zoom
   - C to zoom in by 50 fov
-  - Scroll Wheel + C to further zoom in or out
+  - C + Scroll Wheel to further zoom in or out
